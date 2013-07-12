@@ -16,4 +16,8 @@ I was determined to make a library that would make an HTML table of the results.
        </table>
 </html>
 
-The notebook is displayed [here](http://nbviewer.ipython.org/urls/github.com/damontallen/Timeit_magic_vs_module/raw/master/timeit_magic_vs_timeit_module.ipynb).
+
+As long as the functions are taking the same data building a table is as simple as passing a list of the function names and 
+the data to the "testing" function of the TimeIt_func library.
+
+The example notebook is displayed [here](http://nbviewer.ipython.org/urls/github.com/damontallen/Timeit_magic_vs_module/raw/master/timeit_magic_vs_timeit_module.ipynb).
