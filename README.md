@@ -8,7 +8,7 @@ After looking into the timeit module in Python and seeing [this notebook's](http
 I was determined to make a library that would make an HTML table of the results.
 
 <html>
-<table border="1"  style="border:1px solid black;border-collapse:collapse;height:auto;width:auto;">
+<table border="2" style="border:2px solid black;border-collapse:collapse;">
 <tr><td>Function</td><td>Best time of 3</td><td>Loops</td></tr>
         <tr><td>add</td><td>519.643 us</td><td>1000</td></tr>
         <tr><td>mult</td><td>520.225 us</td><td>1000</td></tr>
